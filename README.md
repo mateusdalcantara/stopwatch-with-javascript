@@ -30,6 +30,6 @@ The following technology were used in this project was:
 
 ## 📝 Licença
 
-Desenvolvido por [Mateus Alcantara](https://www.linkedin.com/in/mateus-alcantara-7280b525b/).
+Developed by [Mateus Alcantara](https://www.linkedin.com/in/mateus-alcantara-7280b525b/).
 
 ---
