@@ -16,7 +16,7 @@ This project is to be a stopwatch, using browser with JavaScript.
 
 ## 🎨 Layout
 
-Como é uma aplicação back-end não tem a parte gráfica.
+Soon, i will do a gif.
 
 ---
 
