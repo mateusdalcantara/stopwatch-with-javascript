@@ -61,3 +61,10 @@ form button:hover{
 form button:active{
   background: yellowgreen;
 }
+
+.stopwatch {
+  font-size: 3em;
+}
+.stop{
+  color : rgb(47, 255, 47)
+}
